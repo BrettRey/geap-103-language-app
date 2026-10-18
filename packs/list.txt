@@ -1,0 +1,2 @@
+# One folder name per line. Each folder is in packs/ and has a pack.md file.
+english-canada
